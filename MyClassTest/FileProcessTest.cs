@@ -21,7 +21,7 @@ namespace MyClassTest
         }
 
         [TestMethod]
-        public void FileNameDoesNotExist()
+        public void FileNameNullOrEmpty()
         {
             //Todo
             Assert.Inconclusive();
